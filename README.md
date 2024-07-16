@@ -1,4 +1,9 @@
-# Blockchain_finance
+# Real-Time Dashboard for Monitoring Proof-of-Stake Protocols and Blockchain Networks
+
+## Objective
+Develop a real-time dashboard to monitor various Proof-of-Stake protocols and blockchain networks.
+
+## Project Steps
 
 ```mermaid
 flowchart TD
