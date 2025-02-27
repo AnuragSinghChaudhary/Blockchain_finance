@@ -3,7 +3,7 @@
 ## Objective
 Develop a real-time dashboard to monitor various Proof-of-Stake protocols and blockchain networks.
 
-## Project Steps
+## Project Step
 
 ```mermaid
 flowchart TD
